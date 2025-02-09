@@ -114,9 +114,9 @@ The machine learning model is trained using the dataset. Key steps involved:
 
 ##  License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [Gagan Raj B K](https://github.com/AdityaSuresh013)
+[MIT](https://choosealicense.com/licenses/mit/) © [Aditya S](https://github.com/AdityaSuresh013)
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-- [Gagan Raj B K](https://github.com/AmbitMaharana)
+- [Aditya Suresh](https://github.com/AdityaSuresh013)
